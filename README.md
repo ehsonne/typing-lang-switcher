@@ -1,4 +1,5 @@
-# "Typing Language Keyboard Switcher Extension
+# Typing Language Keyboard Switcher Extension
+
 
 A Chrome extension that allows users to quickly switch between English and Persian keyboards using a keyboard shortcut (Ctrl + F12).
 
