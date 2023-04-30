@@ -1,4 +1,4 @@
-# Keyboard Switcher Extension
+# "Typing Language Keyboard Switcher Extension
 
 A Chrome extension that allows users to quickly switch between English and Persian keyboards using a keyboard shortcut (Ctrl + F12).
 
@@ -7,7 +7,7 @@ A Chrome extension that allows users to quickly switch between English and Persi
 1. Clone this repository to your local machine.
 2. Open Chrome and navigate to `chrome://extensions`.
 3. Enable "Developer mode" in the top-right corner.
-4. Click "Load unpacked" and select the `keyboard-switcher-extension` folder.
+4. Click "Load unpacked" and select the `typing-lang-switcher` folder.
 
 ## Usage
 
